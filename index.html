@@ -67,6 +67,37 @@
 		        border: none;
 		}
 
+		/* ------------- NAVIGATION BAR ---------------- */
+		ul {
+			  list-style-type: none;
+			  margin: 0;
+			  padding: 0;
+			  overflow: hidden;
+			  background-color: #333;
+		}
+		
+		li {
+		  	float: left;
+		}
+		
+		li a {
+			  display: block;
+			  color: white;
+			  text-align: center;
+			  padding: 14px 16px;
+			  text-decoration: none;
+		}
+		
+		li a:hover:not(.active) {
+		  	background-color: #111;
+		}
+		
+		.active {
+		  	background-color: #04AA6D;
+		}
+
+
+		
 		/* ------------ WITHIN THE CELL PHONE -------------- */
 		@media screen and (max-width: 768px) {
 			
@@ -102,7 +133,7 @@
 
 <body>
 
-
+	<!-- Page Content -->
 	
 	<! -- Name at Top -->	
 	<div class = "nameTop">
@@ -112,9 +143,17 @@
 	<br>
 	<br>
 	
+	<!-- Navigation bar -->
+
+	<ul>
+	  <li><a class="active" href="#home">Home</a></li>
+	  <li><a href="research.html">Research</a></li>
+	</ul>
+	
+	<!-- Line -->
 	<hr>
 
-	<!-- Page Content -->
+	<!-- Below the line stuff -->
 
 	
 	<div class = "mainText">		
