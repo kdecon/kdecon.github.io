@@ -3,6 +3,10 @@
 
 @import "minima";
 
+.wrapper {
+  max-width: calc(1080px - (30px * 2));
+}
+
 a,
 a:visited,
 strong {
@@ -16,7 +20,7 @@ strong {
 .home-columns {
   display: grid;
   gap: 3rem;
-  grid-template-columns: minmax(220px, 280px) minmax(0, 1fr);
+  grid-template-columns: minmax(220px, 260px) minmax(0, 1fr);
   align-items: start;
 }
 
@@ -51,7 +55,7 @@ strong {
   margin-bottom: 0.45rem;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 700px) {
   .home-columns {
     gap: 2rem;
     grid-template-columns: 1fr;

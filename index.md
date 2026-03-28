@@ -28,14 +28,14 @@ permalink: /
     <h2>Working Papers</h2>
 
     <article class="paper-entry">
-      <h3>Labor Market Anatomy of a Macroeconomic Crisis</h3>
+      <h3><a href="/files/dlps_shocks_web.pdf">Labor Market Anatomy of a Macroeconomic Crisis</a></h3>
       <p>with Will Jianyu Lu, Joseph Pedkte, and Todd Schoellman, October 2024.</p>
       <p>Revised and resubmitted, Journal of Monetary Economics</p>
     </article>
 
     <article class="paper-entry">
-      <h3>Industrial Policy with Development Characteristics: Fertilizer Subsidies in Times of Crisis</h3>
-      <p>with Wyatt Brooks, March 2026</p>
+      <h3><a href="/files/bd_rwafert_web.pdf">Industrial Policy with Development Characteristics: Fertilizer Subsidies in Times of Crisis</a></h3>
+      <p>with <a href="https://wyattjbrooks.com">Wyatt Brooks</a>, March 2026</p>
       <p>Other: <a href="https://voxdev.org/topic/agriculture/rising-fertiliser-prices-hit-developing-countries-hard">VoxDev</a></p>
     </article>
 
@@ -46,7 +46,7 @@ permalink: /
 
     <article class="paper-entry">
       <h3>Market Access and Economic Development: Experimental Evidence from New Bridges in Rwanda</h3>
-      <p>with Wyatt Brooks and Evan Thomas (draft soon)</p>
+      <p>with <a href="https://wyattjbrooks.com">Wyatt Brooks</a> and <a href="https://www.colorado.edu/center/mortenson/evan-thomas-phd-pe-mph">Evan Thomas</a> (draft soon)</p>
       <p>Other: <a href="https://cega.berkeley.edu/article/an-underrated-development-investment-that-can-double-returns-footbridges/">ATAI</a> </p>
     </article>
   </section>
