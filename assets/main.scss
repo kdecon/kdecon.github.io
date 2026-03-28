@@ -44,22 +44,33 @@ strong {
 .home-main h2 {
   font-size: 0.98rem;
   margin-bottom: 1.5rem;
+  color: #8d2424;
 }
 
 .paper-entry + .paper-entry {
   margin-top: 2rem;
 }
 
-.paper-entry h3 {
+.paper-entry {
   font-size: 0.98rem;
+}
+
+.paper-entry h3 {
+  font-size: inherit;
+  font-weight: 700;
   line-height: 1.45;
-  margin-bottom: 0.15rem;
+  margin-bottom: 0.02rem;
+}
+
+.paper-entry h3 a,
+.paper-entry h3 a:visited {
+  color: inherit;
 }
 
 .paper-entry p {
-  font-size: 0.98rem;
+  font-size: inherit;
   line-height: 1.55;
-  margin-bottom: 0.1rem;
+  margin-bottom: 0.02rem;
 }
 
 .paper-entry p:last-child {

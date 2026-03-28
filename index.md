@@ -30,7 +30,7 @@ permalink: /
     <article class="paper-entry">
       <h3><a href="/files/dlps_shocks_web.pdf">Labor Market Anatomy of a Macroeconomic Crisis</a></h3>
       <p>with <a href="https://jianyulu.weebly.com">Lu</a>, <a href="https://sites.google.com/view/joseph-pedtke">Pedtke</a>, and <a href="https://toddschoellman.com">Schoellman</a>, October 2024.</p>
-      <p>Revised and resubmitted, Journal of Monetary Economics</p>
+      <p>Revised and resubmitted, <em>Journal of Monetary Economics</em></p>
     </article>
 
     <article class="paper-entry">
