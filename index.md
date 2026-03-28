@@ -36,7 +36,7 @@ permalink: /
     <article class="paper-entry">
       <h3><a href="/files/bd_rwafert_web.pdf">Industrial Policy with Development Characteristics: Fertilizer Subsidies in Times of Crisis</a></h3>
       <p>with <a href="https://wyattjbrooks.com">Brooks</a>, March 2026</p>
-      <p>Other: <a href="https://voxdev.org/topic/agriculture/rising-fertiliser-prices-hit-developing-countries-hard">VoxDev</a></p>
+      <p>Other: [<a href="https://voxdev.org/topic/agriculture/rising-fertiliser-prices-hit-developing-countries-hard">VoxDev</a>]</p>
     </article>
 
     <article class="paper-entry">
@@ -47,7 +47,7 @@ permalink: /
     <article class="paper-entry">
       <h3>Market Access and Economic Development: Experimental Evidence from New Bridges in Rwanda</h3>
       <p>with <a href="https://wyattjbrooks.com">Brooks</a> and <a href="https://www.colorado.edu/center/mortenson/evan-thomas-phd-pe-mph">Thomas</a> (draft soon)</p>
-      <p>Other: <a href="https://cega.berkeley.edu/article/an-underrated-development-investment-that-can-double-returns-footbridges/">ATAI</a> </p>
+      <p>Other: [<a href="https://cega.berkeley.edu/article/an-underrated-development-investment-that-can-double-returns-footbridges/">ATAI</a>]</p>
     </article>
 
     <h2>Published</h2>
@@ -67,13 +67,13 @@ permalink: /
     <article class="paper-entry">
       <h3>Labor Market Dynamics and Development [appendix]</h3>
       <p>with <a href="https://jianyulu.weebly.com">Lu</a> and <a href="https://toddschoellman.com">Schoellman</a>. 2023. <em>Quarterly Journal of Economics</em>, 138(4): 2287 - 2325.</p>
-      <p>Other: <a href="https://www.lfsdata.com/">data website</a> [World Bank Jobs Blog] <a href="https://voxdev.org/topic/labour-markets/labour-market-dynamics-low-and-middle-income-countries">VoxDev podcast</a></p>
+      <p>Other: [<a href="https://www.lfsdata.com/">data website</a>] [<a href="https://voxdev.org/topic/labour-markets/labour-market-dynamics-low-and-middle-income-countries">VoxDev podcast</a>]</p>
     </article>
 
     <article class="paper-entry">
       <h3>Cash Transfers as a Response to COVID-19: Experimental Evidence from Kenya</h3>
       <p>with <a href="https://wyattjbrooks.com">Brooks</a>, <a href="https://datascience.virginia.edu/people/terence-johnson">Johnson</a>, and <a href="https://kellogg.nd.edu/people/jackline-aridi">Oluoch-Aridi</a>, 2022. <em>Journal of Development Economics</em>, 158: 102929</p>
-      <p>Other: <a href="https://www.povertyactionlab.org/evaluation/cash-transfers-during-pandemic-evidence-kenyan-slum">J-PAL</a> <a href="https://www.standardmedia.co.ke/sso/?content=eyJpdiI6ImplQ3Fnc0MzN3NJY2FFTmxrdlhFa1E9PSIsInZhbHVlIjoiR0NURzhZR1EwMEVteXI0NU1SWnVDcXd5dVdSTGJsQkpvS3JVQ2huQi91bVVUM0JhRytnbzFHbkhRczhZcVM1T2k3bC9KelhqR2VFNDA0QStGOTdySnRhS1MyZVVqRWF6WEc2eGRkck93b3M9IiwibWFjIjoiOTViYjkxNmFjMDhlOGNiYzM0OThjZTQ2ZWEzODdkMGZkNmRkMjY2MzE2NTYxZmQxZmQzYTdlMmY2OGMyODU4NSIsInRhZyI6IiJ9">The Standard</a> <a href="https://nation.africa/kenya/blogs-opinion/blogs/give-informal-sector-enterprises-cash-grants-to-speed-up-recovery--3380560">Nation</a></p>
+      <p>Other: [<a href="https://www.povertyactionlab.org/evaluation/cash-transfers-during-pandemic-evidence-kenyan-slum">J-PAL</a>] [<a href="https://www.standardmedia.co.ke/sso/?content=eyJpdiI6ImplQ3Fnc0MzN3NJY2FFTmxrdlhFa1E9PSIsInZhbHVlIjoiR0NURzhZR1EwMEVteXI0NU1SWnVDcXd5dVdSTGJsQkpvS3JVQ2huQi91bVVUM0JhRytnbzFHbkhRczhZcVM1T2k3bC9KelhqR2VFNDA0QStGOTdySnRhS1MyZVVqRWF6WEc2eGRkck93b3M9IiwibWFjIjoiOTViYjkxNmFjMDhlOGNiYzM0OThjZTQ2ZWEzODdkMGZkNmRkMjY2MzE2NTYxZmQxZmQzYTdlMmY2OGMyODU4NSIsInRhZyI6IiJ9">The Standard</a>, reprinted in <a href="https://nation.africa/kenya/blogs-opinion/blogs/give-informal-sector-enterprises-cash-grants-to-speed-up-recovery--3380560">Nation</a>]</p>
     </article>
 
     <article class="paper-entry">
@@ -84,7 +84,7 @@ permalink: /
     <article class="paper-entry">
       <h3>Eliminating Uncertainty in Market Access: The Impact of New Bridges in Rural Nicaragua [appendix 1] [appendix 2]</h3>
       <p>with <a href="https://wyattjbrooks.com">Brooks</a>. 2020. <em>Econometrica</em>, 88(5): 1965 - 1997.</p>
-      <p>Other: <a href="https://voxdev.org/topic/infrastructure/bridging-gap-reducing-rural-isolation-new-infrastructure">VoxDev</a> <a href="https://afinetheorem.wordpress.com/2018/07/24/eliminating-uncertainty-in-market-access-the-impact-of-new-bridges-in-rural-nicaragua-w-brooks-k-donovan-2018/">A Fine Theorem</a></p>
+      <p>Other: [<a href="https://voxdev.org/topic/infrastructure/bridging-gap-reducing-rural-isolation-new-infrastructure">VoxDev</a>] [<a href="https://afinetheorem.wordpress.com/2018/07/24/eliminating-uncertainty-in-market-access-the-impact-of-new-bridges-in-rural-nicaragua-w-brooks-k-donovan-2018/">A Fine Theorem</a>]</p>
     </article>
 
     <article class="paper-entry">
@@ -95,7 +95,7 @@ permalink: /
     <article class="paper-entry">
       <h3>Mentors or Teachers? Microenterprise Training in Kenya [appendix]</h3>
       <p>with <a href="https://wyattjbrooks.com">Brooks</a> and <a href="https://datascience.virginia.edu/people/terence-johnson">Johnson</a>. 2018. <em>American Economic Journal: Applied Economics</em>, 10(4): 196 - 221.</p>
-      <p>Other: <a href="https://voxdev.org/topic/firms/mentorship-helps-kenyan-microenterprises-profit">VoxDev</a></p>
+      <p>Other: [<a href="https://voxdev.org/topic/firms/mentorship-helps-kenyan-microenterprises-profit">VoxDev</a>]</p>
     </article>
 
     <h2><em>Other Stuff (non-peer reviewed or in other fields)</em></h2>
