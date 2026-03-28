@@ -24,7 +24,20 @@ strong {
 }
 
 .site-nav .page-link {
-  font-size: 1.05rem;
+  background: #8d2424;
+  border-radius: 999px;
+  color: #fdfdfd;
+  font-size: 1.15rem;
+  padding: 0.35rem 0.85rem;
+}
+
+.site-nav .page-link:visited {
+  color: #fdfdfd;
+}
+
+.site-nav .page-link:hover {
+  color: #fdfdfd;
+  text-decoration: none;
 }
 
 .home-sidebar {

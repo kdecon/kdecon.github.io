@@ -65,7 +65,7 @@ permalink: /
     </article>
 
     <article class="paper-entry">
-      <h3><a href="/files/laborflows_web.pdf">Labor Market Dynamics and Development [appendix]</a></h3>
+      <h3><a href="/files/laborflows_web.pdf">Labor Market Dynamics and Development</a> <a href="/files/appendices/laborflows_web_appendix.pdf">[appendix]</a></h3>
       <p>with <a href="https://jianyulu.weebly.com">Lu</a> and <a href="https://toddschoellman.com">Schoellman</a>. 2023. <em>Quarterly Journal of Economics</em>, 138(4): 2287 - 2325.</p>
       <p>Other: <a href="https://www.lfsdata.com/">[data website]</a> <a href="https://voxdev.org/topic/labour-markets/labour-market-dynamics-low-and-middle-income-countries">[VoxDev podcast]</a></p>
     </article>
@@ -73,32 +73,32 @@ permalink: /
     <article class="paper-entry">
       <h3><a href="/files/bdjo_covid_web.pdf">Cash Transfers as a Response to COVID-19: Experimental Evidence from Kenya</a></h3>
       <p>with <a href="https://wyattjbrooks.com">Brooks</a>, <a href="https://datascience.virginia.edu/people/terence-johnson">Johnson</a>, and <a href="https://kellogg.nd.edu/people/jackline-aridi">Oluoch-Aridi</a>, 2022. <em>Journal of Development Economics</em>, 158: 102929</p>
-      <p>Other: <a href="https://www.povertyactionlab.org/evaluation/cash-transfers-during-pandemic-evidence-kenyan-slum">[J-PAL]</a> <a href="https://www.standardmedia.co.ke/sso/?content=eyJpdiI6ImplQ3Fnc0MzN3NJY2FFTmxrdlhFa1E9PSIsInZhbHVlIjoiR0NURzhZR1EwMEVteXI0NU1SWnVDcXd5dVdSTGJsQkpvS3JVQ2huQi91bVVUM0JhRytnbzFHbkhRczhZcVM1T2k3bC9KelhqR2VFNDA0QStGOTdySnRhS1MyZVVqRWF6WEc2eGRkck93b3M9IiwibWFjIjoiOTViYjkxNmFjMDhlOGNiYzM0OThjZTQ2ZWEzODdkMGZkNmRkMjY2MzE2NTYxZmQxZmQzYTdlMmY2OGMyODU4NSIsInRhZyI6IiJ9">[The Standard, reprinted in</a> <a href="https://nation.africa/kenya/blogs-opinion/blogs/give-informal-sector-enterprises-cash-grants-to-speed-up-recovery--3380560">Nation]</a></p>
+      <p>Other: <a href="https://www.povertyactionlab.org/evaluation/cash-transfers-during-pandemic-evidence-kenyan-slum">[J-PAL]</a> [<a href="https://www.standardmedia.co.ke/sso/?content=eyJpdiI6ImplQ3Fnc0MzN3NJY2FFTmxrdlhFa1E9PSIsInZhbHVlIjoiR0NURzhZR1EwMEVteXI0NU1SWnVDcXd5dVdSTGJsQkpvS3JVQ2huQi91bVVUM0JhRytnbzFHbkhRczhZcVM1T2k3bC9KelhqR2VFNDA0QStGOTdySnRhS1MyZVVqRWF6WEc2eGRkck93b3M9IiwibWFjIjoiOTViYjkxNmFjMDhlOGNiYzM0OThjZTQ2ZWEzODdkMGZkNmRkMjY2MzE2NTYxZmQxZmQzYTdlMmY2OGMyODU4NSIsInRhZyI6IiJ9">The Standard</a>, reprinted in <a href="https://nation.africa/kenya/blogs-opinion/blogs/give-informal-sector-enterprises-cash-grants-to-speed-up-recovery--3380560">Nation</a>]</p>
     </article>
 
     <article class="paper-entry">
-      <h3><a href="/files/donovan_riskprod_web.pdf">The Equilibrium Impact of Agricultural Risk on Intermediate Inputs and Aggregate Productivity [appendix]</a></h3>
+      <h3><a href="/files/donovan_riskprod_web.pdf">The Equilibrium Impact of Agricultural Risk on Intermediate Inputs and Aggregate Productivity</a> <a href="/files/appendices/donovan_riskprod_web_appendix.pdf">[appendix]</a></h3>
       <p>2021. <em>Review of Economic Studies</em>, 88(5): 2275-2307.</p>
     </article>
 
     <article class="paper-entry">
-      <h3><a href="/files/nicaraguabridges_web.pdf">Eliminating Uncertainty in Market Access: The Impact of New Bridges in Rural Nicaragua [appendix 1] [appendix 2]</a></h3>
+      <h3><a href="/files/nicaraguabridges_web.pdf">Eliminating Uncertainty in Market Access: The Impact of New Bridges in Rural Nicaragua</a> <a href="/files/appendices/nicaraguabridges_web_appendix1.pdf">[appendix 1]</a> <a href="/files/appendices/nicaraguabridges_web_appendix2.pdf">[appendix 2]</a></h3>
       <p>with <a href="https://wyattjbrooks.com">Brooks</a>. 2020. <em>Econometrica</em>, 88(5): 1965 - 1997.</p>
       <p>Other: <a href="https://voxdev.org/topic/infrastructure/bridging-gap-reducing-rural-isolation-new-infrastructure">[VoxDev]</a> <a href="https://afinetheorem.wordpress.com/2018/07/24/eliminating-uncertainty-in-market-access-the-impact-of-new-bridges-in-rural-nicaragua-w-brooks-k-donovan-2018/">[A Fine Theorem]</a></p>
     </article>
 
     <article class="paper-entry">
-      <h3><a href="/files/dh_education_web.pdf">Factors Affecting College Attainment and Student Ability in the U.S. since 1900 [appendix]</a></h3>
+      <h3><a href="/files/dh_education_web.pdf">Factors Affecting College Attainment and Student Ability in the U.S. since 1900</a> <a href="/files/appendices/dh_education_web_appendix.pdf">[appendix]</a></h3>
       <p>with <a href="https://sites.google.com/view/cmherrington/">Herrington</a>. 2019. <em>Review of Economic Dynamics</em>, 31(1): 224 - 244.</p>
     </article>
 
     <article class="paper-entry">
-      <h3><a href="/files/dandora_web_current.pdf">Mentors or Teachers? Microenterprise Training in Kenya [appendix]</a></h3>
+      <h3><a href="/files/dandora_web_current.pdf">Mentors or Teachers? Microenterprise Training in Kenya</a> <a href="/files/appendices/dandora_web_appendix.pdf">[appendix]</a></h3>
       <p>with <a href="https://wyattjbrooks.com">Brooks</a> and <a href="https://datascience.virginia.edu/people/terence-johnson">Johnson</a>. 2018. <em>American Economic Journal: Applied Economics</em>, 10(4): 196 - 221.</p>
       <p>Other: <a href="https://voxdev.org/topic/firms/mentorship-helps-kenyan-microenterprises-profit">[VoxDev]</a></p>
     </article>
 
-    <h2 class="section-heading"><em>Other Stuff (non-peer reviewed or in other fields)</em></h2>
+    <h2 class="section-heading">Other Stuff (non-peer reviewed or in other fields)</h2>
 
     <article class="paper-entry">
       <h3><a href="/files/training_wb_web.pdf">Is There a Cost-Effective Means of Training Microenterprises?</a></h3>
