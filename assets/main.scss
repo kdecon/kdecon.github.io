@@ -4,7 +4,7 @@
 @import "minima";
 
 .wrapper {
-  max-width: calc(1080px - (30px * 2));
+  max-width: 1240px;
 }
 
 a,
@@ -18,17 +18,22 @@ strong {
 }
 
 .home-columns {
-  display: grid;
-  gap: 3rem;
-  grid-template-columns: minmax(220px, 260px) minmax(0, 1fr);
+  display: flex;
+  gap: 4rem;
   align-items: start;
 }
 
 .home-sidebar {
+  flex: 0 0 260px;
   font-size: 0.98rem;
   line-height: 1.7;
   position: sticky;
   top: 2rem;
+}
+
+.home-main {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .home-main h2,
@@ -37,7 +42,7 @@ strong {
 }
 
 .home-main h2 {
-  font-size: 1.5rem;
+  font-size: 0.98rem;
   margin-bottom: 1.5rem;
 }
 
@@ -46,22 +51,28 @@ strong {
 }
 
 .paper-entry h3 {
-  font-size: 1.1rem;
-  line-height: 1.35;
-  margin-bottom: 0.45rem;
+  font-size: 0.98rem;
+  line-height: 1.45;
+  margin-bottom: 0.15rem;
 }
 
 .paper-entry p {
-  margin-bottom: 0.45rem;
+  font-size: 0.98rem;
+  line-height: 1.55;
+  margin-bottom: 0.1rem;
+}
+
+.paper-entry p:last-child {
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 700px) {
   .home-columns {
-    gap: 2rem;
-    grid-template-columns: 1fr;
+    display: block;
   }
 
   .home-sidebar {
+    margin-bottom: 2rem;
     position: static;
   }
 }
