@@ -25,11 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kevin Donovan"
-  pronouns         : # example: "she/her"  
-  #bio              : "Shortr"
-  #location         : ""
+  bio              : "Associate Professor of Economics"
   employer         : "Yale SOM"
-  uri              : # URL
   email            : "kevin.donovan@yale.edu" 
 
   # Academic websites
