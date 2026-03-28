@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Kevin Donovan
 permalink: /
 ---
-
-# Kevin Donovan
 
 Associate Professor of Economics  
 [Yale School of Management](https://som.yale.edu)
 
-**Research Interests:** Macro-Development
+**Research Interests:**  
+Macro-Development
 
-- [Research](/research/)
-- [CV](/cv/)
+**Contact Info**  
+2512 Evans Hall  
+165 Whitney Ave  
+New Haven, CT 06511  
+email
