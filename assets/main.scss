@@ -12,3 +12,52 @@ strong {
 .site-footer {
   display: none;
 }
+
+.home-columns {
+  display: grid;
+  gap: 3rem;
+  grid-template-columns: minmax(220px, 280px) minmax(0, 1fr);
+  align-items: start;
+}
+
+.home-sidebar {
+  font-size: 0.98rem;
+  line-height: 1.7;
+  position: sticky;
+  top: 2rem;
+}
+
+.home-main h2,
+.home-main h3 {
+  color: #8d2424;
+}
+
+.home-main h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.paper-entry + .paper-entry {
+  margin-top: 2rem;
+}
+
+.paper-entry h3 {
+  font-size: 1.1rem;
+  line-height: 1.35;
+  margin-bottom: 0.45rem;
+}
+
+.paper-entry p {
+  margin-bottom: 0.45rem;
+}
+
+@media screen and (max-width: 800px) {
+  .home-columns {
+    gap: 2rem;
+    grid-template-columns: 1fr;
+  }
+
+  .home-sidebar {
+    position: static;
+  }
+}
