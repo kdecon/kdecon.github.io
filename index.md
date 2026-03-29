@@ -5,6 +5,12 @@ permalink: /
 
 <div class="home-columns">
   <aside class="home-sidebar">
+    <img
+      class="home-headshot"
+      src="/images/headshot.jpg"
+      alt="Kevin Donovan headshot"
+    >
+
     <p>
       Associate Professor of Economics<br>
       <a href="https://som.yale.edu">Yale School of Management</a>
