@@ -40,7 +40,7 @@ permalink: /
     </article>
 
     <article class="paper-entry">
-      <h3><a href="/files/bd_rwafert_web.pdf">Industrial Policy with Development Characteristics: Fertilizer Subsidies in Times of Crisis</a></h3>
+      <h3><a href="/files/bd_rwafert_web.pdf?v=20260423">Industrial Policy with Development Characteristics: Fertilizer Subsidies in Times of Crisis</a></h3>
       <p>with <a href="https://wyattjbrooks.com">Brooks</a>, March 2026</p>
       <p>Other: <a href="https://voxdev.org/topic/agriculture/rising-fertiliser-prices-hit-developing-countries-hard">[VoxDev]</a></p>
     </article>
