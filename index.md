@@ -46,19 +46,21 @@ permalink: /
     </article>
 
     <article class="paper-entry">
+      <h3>Market Access and Economic Development: Experimental Evidence from New Bridges in Rwanda</h3>
+      <p>with <a href="https://wyattjbrooks.com">Brooks</a> and <a href="https://www.colorado.edu/center/mortenson/evan-thomas-phd-pe-mph">Thomas</a> (draft soon)</p>
+      <p>Other: <a href="https://cega.berkeley.edu/article/an-underrated-development-investment-that-can-double-returns-footbridges/">[ATAI]</a></p>
+    </article>
+
+    <h2 class="section-heading">In Progress</h2>
+
+    <article class="paper-entry">
       <h3>Constructing Africa's Cities: Labor Market Effects of Infrastructure Construction</h3>
       <p>with <a href="https://sites.google.com/site/mkirchberger/home">Kirchberger</a>, <a href="https://www.svetamilusheva.com/home">Milusheva</a>, <a href="https://www.carolnewman.ie">Newman</a>, and <a href="https://www.vinceth.net">Thorne</a></p>
     </article>
 
     <article class="paper-entry">
       <h3>Household Labor Supply Insurance Around the World</h3>
-      <p>with <a href="https://sites.google.com/view/annikabacher/">Bacher</a>, <a href="https://philippgruebener.com">Grübener</a>, <a href="https://lukasnord.eu">Nord</a>, and <a href="https://toddschoellman.com">Schoellman</a> (draft soon)</p>
-    </article>
-
-    <article class="paper-entry">
-      <h3>Market Access and Economic Development: Experimental Evidence from New Bridges in Rwanda</h3>
-      <p>with <a href="https://wyattjbrooks.com">Brooks</a> and <a href="https://www.colorado.edu/center/mortenson/evan-thomas-phd-pe-mph">Thomas</a> (draft soon)</p>
-      <p>Other: <a href="https://cega.berkeley.edu/article/an-underrated-development-investment-that-can-double-returns-footbridges/">[ATAI]</a></p>
+      <p>with <a href="https://sites.google.com/view/annikabacher/">Bacher</a>, <a href="https://philippgruebener.com">Grübener</a>, <a href="https://lukasnord.eu">Nord</a>, and <a href="https://toddschoellman.com">Schoellman</a></p>
     </article>
 
     <h2 class="section-heading">Published</h2>
