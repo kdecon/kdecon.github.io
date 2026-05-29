@@ -46,6 +46,11 @@ permalink: /
     </article>
 
     <article class="paper-entry">
+      <h3>Constructing Africa's Cities: Labor Market Effects of Infrastructure Construction</h3>
+      <p>with <a href="https://sites.google.com/site/mkirchberger/home">Kirchberger</a>, <a href="https://www.svetamilusheva.com/home">Milusheva</a>, <a href="https://www.carolnewman.ie">Newman</a>, and <a href="https://www.vinceth.net">Thorne</a></p>
+    </article>
+
+    <article class="paper-entry">
       <h3>Household Labor Supply Insurance Around the World</h3>
       <p>with <a href="https://sites.google.com/view/annikabacher/">Bacher</a>, <a href="https://philippgruebener.com">Grübener</a>, <a href="https://lukasnord.eu">Nord</a>, and <a href="https://toddschoellman.com">Schoellman</a> (draft soon)</p>
     </article>
