@@ -48,7 +48,7 @@ permalink: /
     <article class="paper-entry">
       <h3>Market Access and Economic Development: Evidence from Randomized Bridges in Rwanda</h3>
       <p>with <a href="https://wyattjbrooks.com">Brooks</a> and <a href="https://www.colorado.edu/center/mortenson/evan-thomas-phd-pe-mph">Thomas</a> (draft soon)</p>
-      <p>Other: <a href="https://cega.berkeley.edu/article/an-underrated-development-investment-that-can-double-returns-footbridges/">[ATAI]</a></p>
+      <p>Other: <a href="https://cega.berkeley.edu/article/an-underrated-development-investment-that-can-double-returns-footbridges/">[ATAI]</a> <a href="https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-Rwanda">[NPR]</a></p>
     </article>
 
     <h2 class="section-heading">In Progress</h2>
