@@ -42,13 +42,13 @@ permalink: /
     <article class="paper-entry">
       <h3><a href="/files/bd_rwafert_web.pdf?v=20260423-2">Industrial Policy with Development Characteristics: Fertilizer Subsidies in Times of Crisis</a></h3>
       <p>with <a href="https://wyattjbrooks.com">Brooks</a>, March 2026</p>
+      <p>Revision requested, <em>Journal of Political Economy</em></p>
       <p>Other: <a href="https://voxdev.org/topic/agriculture/rising-fertiliser-prices-hit-developing-countries-hard">[VoxDev]</a></p>
     </article>
 
     <article class="paper-entry">
       <h3>Market Access and Economic Development: Evidence from Randomized Bridges in Rwanda</h3>
-      <p>with <a href="https://wyattjbrooks.com">Brooks</a> and <a href="https://www.colorado.edu/center/mortenson/evan-thomas-phd-pe-mph">Thomas</a></p>
-      <p>Revision requested, <em>Journal of Political Economy</em></p>
+      <p>with <a href="https://wyattjbrooks.com">Brooks</a> and <a href="https://www.colorado.edu/center/mortenson/evan-thomas-phd-pe-mph">Thomas</a> (draft soon)</p>
       <p>Other: <a href="https://cega.berkeley.edu/article/an-underrated-development-investment-that-can-double-returns-footbridges/">[ATAI]</a> <a href="https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-Rwanda">[NPR]</a></p>
     </article>
 
