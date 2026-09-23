@@ -36,7 +36,7 @@ permalink: /
     <article class="paper-entry">
       <h3><a href="/files/dlps_shocks_web.pdf">Labor Market Anatomy of a Macroeconomic Crisis</a></h3>
       <p>with <a href="https://jianyulu.weebly.com">Lu</a>, <a href="https://sites.google.com/view/joseph-pedtke">Pedtke</a>, and <a href="https://toddschoellman.com">Schoellman</a>, October 2024.</p>
-      <p>Revised and resubmitted, <em>Journal of Monetary Economics</em></p>
+      <p>Accepted subject to major revisions, <em>Journal of Monetary Economics</em></p>
     </article>
 
     <article class="paper-entry">
@@ -47,7 +47,8 @@ permalink: /
 
     <article class="paper-entry">
       <h3>Market Access and Economic Development: Evidence from Randomized Bridges in Rwanda</h3>
-      <p>with <a href="https://wyattjbrooks.com">Brooks</a> and <a href="https://www.colorado.edu/center/mortenson/evan-thomas-phd-pe-mph">Thomas</a> (draft soon)</p>
+      <p>with <a href="https://wyattjbrooks.com">Brooks</a> and <a href="https://www.colorado.edu/center/mortenson/evan-thomas-phd-pe-mph">Thomas</a></p>
+      <p>Revision requested, <em>Journal of Political Economy</em></p>
       <p>Other: <a href="https://cega.berkeley.edu/article/an-underrated-development-investment-that-can-double-returns-footbridges/">[ATAI]</a> <a href="https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-Rwanda">[NPR]</a></p>
     </article>
 
