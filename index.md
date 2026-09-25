@@ -62,7 +62,7 @@ permalink: /
     <article class="paper-entry">
       <h3>Household Labor Supply Insurance Around the World</h3>
       <p>with <a href="https://sites.google.com/view/annikabacher/">Bacher</a>, <a href="https://philippgruebener.com">Grübener</a>, <a href="https://lukasnord.eu">Nord</a>, and <a href="https://toddschoellman.com">Schoellman</a></p>
-      <p>Other: <a href="https://open.spotify.com/episode/7Kx9gDXO8HybnHJ3iAInpA?si=wND8PiqJS_qBthqvYj-FeA">[STEG Podcast - Spotify]</a> <a href="https://cepr.org/multimedia/why-there-not-more-spousal-insurance">[CEPR web]</a></p>
+      <p>Other: STEG Podcast <a href="https://open.spotify.com/episode/7Kx9gDXO8HybnHJ3iAInpA?si=wND8PiqJS_qBthqvYj-FeA">[Spotify]</a> <a href="https://cepr.org/multimedia/why-there-not-more-spousal-insurance">[CEPR]</a></p>
     </article>
 
     <h2 class="section-heading">Published</h2>
