@@ -36,7 +36,7 @@ permalink: /
     <article class="paper-entry">
       <h3><a href="/files/dlps_shocks_web.pdf">Labor Market Anatomy of a Macroeconomic Crisis</a></h3>
       <p>with <a href="https://jianyulu.weebly.com">Lu</a>, <a href="https://sites.google.com/view/joseph-pedtke">Pedtke</a>, and <a href="https://toddschoellman.com">Schoellman</a>, October 2024.</p>
-      <p>Accepted subject to major revisions, <em>Journal of Monetary Economics</em></p>
+      <p>Accepted with minor revisions, <em>Journal of Monetary Economics</em></p>
     </article>
 
     <article class="paper-entry">
@@ -70,7 +70,7 @@ permalink: /
     <article class="paper-entry">
       <h3><a href="/files/bdj_diffusion_web.pdf">From Micro to Macro in an Equilibrium Diffusion Model</a></h3>
       <p>with <a href="https://wyattjbrooks.com">Brooks</a> and <a href="https://datascience.virginia.edu/people/terence-johnson">Johnson</a>, March 2024.</p>
-      <p>Accepted, <em>Review of Economics and Statistics</em></p>
+      <p>Forthcoming, <em>Review of Economics and Statistics</em></p>
     </article>
 
     <article class="paper-entry">
