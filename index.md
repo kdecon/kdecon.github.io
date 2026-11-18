@@ -34,12 +34,6 @@ permalink: /
     <h2>Working Papers</h2>
 
     <article class="paper-entry">
-      <h3><a href="/files/dlps_shocks_web.pdf">Labor Market Anatomy of a Macroeconomic Crisis</a></h3>
-      <p>with <a href="https://jianyulu.weebly.com">Lu</a>, <a href="https://sites.google.com/view/joseph-pedtke">Pedtke</a>, and <a href="https://toddschoellman.com">Schoellman</a>, October 2024.</p>
-      <p>Accepted with minor revisions, <em>Journal of Monetary Economics</em></p>
-    </article>
-
-    <article class="paper-entry">
       <h3><a href="/files/bd_rwafert_web.pdf?v=20260423-2">Industrial Policy with Development Characteristics: Fertilizer Subsidies in Times of Crisis</a></h3>
       <p>with <a href="https://wyattjbrooks.com">Brooks</a>, March 2026</p>
       <p>Revision requested, <em>Journal of Political Economy</em></p>
@@ -68,8 +62,14 @@ permalink: /
     <h2 class="section-heading">Published</h2>
 
     <article class="paper-entry">
+      <h3><a href="/files/dlps_shocks_web.pdf">Labor Market Anatomy of a Macroeconomic Crisis</a></h3>
+      <p>with <a href="https://jianyulu.weebly.com">Lu</a>, <a href="https://sites.google.com/view/joseph-pedtke">Pedtke</a>, and <a href="https://toddschoellman.com">Schoellman</a></p>
+      <p>Forthcoming, <em>Journal of Monetary Economics</em></p>
+    </article>
+
+    <article class="paper-entry">
       <h3><a href="/files/bdj_diffusion_web.pdf">From Micro to Macro in an Equilibrium Diffusion Model</a></h3>
-      <p>with <a href="https://wyattjbrooks.com">Brooks</a> and <a href="https://datascience.virginia.edu/people/terence-johnson">Johnson</a>, March 2024.</p>
+      <p>with <a href="https://wyattjbrooks.com">Brooks</a> and <a href="https://datascience.virginia.edu/people/terence-johnson">Johnson</a></p>
       <p>Forthcoming, <em>Review of Economics and Statistics</em></p>
     </article>
 
